@@ -1,3 +1,7 @@
+#Project created (19/04/2023)
+
+Este projeto foi feito durante o bootcamp da DIO (Potência Tech Angular Developer - Powered by iFood), aqui estarei criando uma SPA com Angular utilizando como base um desing do dribbble (https://dribbble.com/shots/18089191-Blog-Layout)
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
