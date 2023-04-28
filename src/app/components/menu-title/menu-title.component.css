@@ -13,5 +13,9 @@
 }
 
 .container_menu-title > hr {
-    margin: 10px 0 ;
+    margin: 10px auto;
+
+    width:85% ;
+    
+    
 }
